@@ -1,5 +1,5 @@
-# TODO
+﻿# TODO
 
-- [x] Update `hello_world.py` so it prints `Hello from Jules!` instead of `Hello, World!`
-- [x] Add one brief comment explaining that this file is used as a Verne orchestration smoke test
-- [x] Keep the file valid Python so `python -m py_compile hello_world.py` passes
+- [ ] Refactor `hello_world.py` so it defines a `get_message()` function and prints its return value
+- [ ] Keep the smoke test comment in the file
+- [ ] Keep the script output exactly `Hello from Jules!`
