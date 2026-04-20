@@ -5,3 +5,6 @@
 - [ ] Keep the smoke test comment in the file
 - [ ] Keep the script output exactly `Hello from Jules!`
 - [x] Create a file `PIPELINE_VERIFIED.txt` with the word `SUCCESS` as content
+
+- [ ] Add timestamps to logger.py output
+- [ ] Add logging levels (e.g., INFO, WARN, ERROR) to logger.py
